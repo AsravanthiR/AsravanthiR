@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Sravanthi Avadhanula 
+Sravanthi Avadhanula 
 A Developer in  the process of learning ...
 
 Here are some ideas to get you started:
