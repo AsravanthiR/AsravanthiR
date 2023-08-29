@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Sravanthi Avadhanula 
-      Junior IT Consultant
+## Sravanthi Avadhanula 
+      # Junior IT Consultant
 - ⚡ I am a certified AWS Developer Associate...
 - 👯 Looking for new opportunities..
 -->
