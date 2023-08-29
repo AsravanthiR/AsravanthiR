@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 Sravanthi Avadhanula 
-A Developer in  the process of learning ...
-
-Here are some ideas to get you started:
-- ⚡ I am an aspiring we developer ...
-- 🔭 Currently studying in Business college Helsinki ...
-- 🌱Doing Full stack developer program..
-- 👯 I’m looking to collaborate on trainee places for students..
+      Junior IT Consultant
+- ⚡ I am a certified AWS Developer Associate...
+- 👯 Looking for new opportunities..
 -->
 
 ##Technologies
